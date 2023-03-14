@@ -1,6 +1,7 @@
 # MavenSlopeChallenge
 
 About this project
+
 This project aims to help skiers find their ideal destination using a Power BI dashboard based on a dataset containing information on ski resorts, 
 including their location, price, season, slope difficulty, lift types, and child friendliness.
 
